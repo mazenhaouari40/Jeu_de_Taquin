@@ -1,3 +1,6 @@
+# Jeu de Taquin
+## Overview
+
 This project was created by Mazen Haouari and Mahmoud Derbel. We developed four algorithms:
 * Breadth-First Search
 * Depth-First Search
